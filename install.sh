@@ -14,4 +14,5 @@ npm install express mongoose cors body-parser
 3. install features dokument upload
 npm install react-dropzone
 
-4.
+4. install multer
+npm install multer
